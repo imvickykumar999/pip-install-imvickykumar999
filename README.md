@@ -8,7 +8,7 @@
 
 # Package : Vixtor = Vix (my nickname) + 3D_Vector
 
-...this package can solve most of the questions of chapter 11, NCERT (3D Vector) of class 12th.
+...this package can solve most of the questions of chapter 11, [NCERT](https://github.com/imvickykumar999/vixtor/blob/master/NCERT-Books-for-class%2012-Maths-Chapter%2011.pdf) (3D Vector) of class 12th.
 
 ...checkout my linkedin post for tutorial on how to use package's function and fully explained by solving questions.
 
