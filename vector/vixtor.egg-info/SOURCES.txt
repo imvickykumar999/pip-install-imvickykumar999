@@ -1,0 +1,13 @@
+License.txt
+MANIFEST.in
+Readme.txt
+about.txt
+setup.py
+vixtor/__init__.py
+vixtor/my_cmd.py
+vixtor/threeDvector.py
+vixtor/vicky.py
+vixtor.egg-info/PKG-INFO
+vixtor.egg-info/SOURCES.txt
+vixtor.egg-info/dependency_links.txt
+vixtor.egg-info/top_level.txt

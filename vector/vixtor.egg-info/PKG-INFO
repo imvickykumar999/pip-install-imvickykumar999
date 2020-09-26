@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: vixtor
+Version: 0.0.1
+Summary: Solves questions like 3D vector.
+Home-page: https://github.com/imvickykumar999
+Author: Vicky Kumar
+Author-email: UNKNOWN
+License: MIT
+Description: 'This package has custom functions.
+Keywords: custom,python package,function and class,3D line,3D plane,angle bw planes or line,distance bw point and plane
+Platform: UNKNOWN
