@@ -2,7 +2,8 @@
 
 ## pip install vixtor
 
-...made with love and hardwork ;)
+#### ...made with love and hardwork ;)
+#### [Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6715639149992394752/)
 
 [![pypi](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/pypi.png)](https://pypi.org/project/vixtor/)
 
