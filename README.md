@@ -1,8 +1,11 @@
-# [vixtor](https://github.com/imvickykumar999/vixtor/blob/master/vector/vixtor/__init__.py)
+# [vixtor](https://github.com/imvickykumar999/vixtor/blob/master/vixtor.ipynb)
+
+## [Available functions you can try](https://github.com/imvickykumar999/vixtor/blob/master/vector/vixtor/__init__.py)
 
 ## [pip install vixtor](https://github.com/imvickykumar999/vixtor/blob/master/pip%20install%20vixtor.ipynb)
 
 #### ...made with love and hardwork ;)
+
 #### [Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6715639149992394752/)
 
 [![pypi](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/pypi.png)](https://pypi.org/project/vixtor/)
