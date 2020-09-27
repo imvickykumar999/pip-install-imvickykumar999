@@ -1,6 +1,6 @@
 # vixtor
 
-## pip install vixtor
+## [pip install vixtor]
 
 #### ...made with love and hardwork ;)
 #### [Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6715639149992394752/)
@@ -18,6 +18,7 @@
 ![plane](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/vixtor.png)
 
 # How to Upload to PyPi :
+https://github.com/fhamborg/news-please/wiki/PyPI---How-to-upload-a-new-version
 
 1. creating a folder: any name
 2. creating a sub folder : vector
