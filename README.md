@@ -6,7 +6,7 @@
 
 ## [Available functions you can try](https://github.com/imvickykumar999/vixtor/blob/master/vector/vixtor/__init__.py)
 
-## [pip install vixtor](https://github.com/imvickykumar999/vixtor/blob/master/pip%20install%20vixtor.ipynb)
+## [TUTORIAL.ipynb : pip install vixtor](https://github.com/imvickykumar999/vixtor/blob/master/pip%20install%20vixtor%20version%200.0.2.ipynb)
 
 #### ...made with love and hardwork ;)
 
