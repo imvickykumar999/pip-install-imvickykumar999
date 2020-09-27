@@ -1,4 +1,4 @@
-# vixtor
+# [vixtor](https://github.com/imvickykumar999/vixtor/blob/master/vector/vixtor/__init__.py)
 
 ## [pip install vixtor]
 
@@ -7,7 +7,7 @@
 
 [![pypi](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/pypi.png)](https://pypi.org/project/vixtor/)
 
-# Package : Vixtor = Vix (my nickname) + 3D_Vector
+# Package : Vixtor = Vix (my nickname) + 3D_Vec.tor
 
 ...this package can solve most of the questions of chapter 11, [NCERT](https://github.com/imvickykumar999/vixtor/blob/master/NCERT-Books-for-class%2012-Maths-Chapter%2011.pdf) (3D Vector) of class 12th.
 
