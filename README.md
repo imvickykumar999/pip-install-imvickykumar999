@@ -1,5 +1,9 @@
 # [vixtor](https://github.com/imvickykumar999/vixtor/blob/master/vixtor.ipynb)
 
+#### ...in version 0.0.2, printing parameter is introduced, for example : 
+### angbw2line(a1=[3,2,-4], b1=[1,2,2], a2=[5,-2,0], b2=[3,2,6], printing = True)
+#### ...if printing is True then only claaed function will print info else only return.
+
 ## [Available functions you can try](https://github.com/imvickykumar999/vixtor/blob/master/vector/vixtor/__init__.py)
 
 ## [pip install vixtor](https://github.com/imvickykumar999/vixtor/blob/master/pip%20install%20vixtor.ipynb)
