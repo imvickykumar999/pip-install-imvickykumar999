@@ -1,0 +1,49 @@
+Metadata-Version: 1.0
+Name: vixtor
+Version: 0.0.2
+Summary: Solves questions like 3D vector.
+Home-page: https://github.com/imvickykumar999/vixtor
+Author: Vicky Kumar
+Author-email: UNKNOWN
+License: MIT
+Description: 
+        https://github.com/imvickykumar999/vixtor/blob/master/vector/vixtor/__init__.py)
+        
+        https://github.com/imvickykumar999/vixtor/blob/master/pip%20install%20vixtor.ipynb
+        
+        https://www.linkedin.com/feed/update/urn:li:activity:6715639149992394752/
+        
+        https://raw.githubusercontent.com/imvickykumar999/vixtor/master/pypi.png)](https://pypi.org/project/vixtor/
+        
+        Package : Vixtor = Vix (my nickname) + 3D_Vec.tor
+        
+        ...this package can solve most of the questions of chapter 11, NCERT https://github.com/imvickykumar999/vixtor/blob/master/NCERT-Books-for-class%2012-Maths-Chapter%2011.pdf 3D Vector of class 12th.
+        
+        ...checkout my linkedin post for tutorial on how to use package's function and fully explained by solving questions.
+        
+        ...repo on github username : imvickykumar999
+        
+        https://raw.githubusercontent.com/imvickykumar999/vixtor/master/vixtor.png
+        
+        How to Upload to PyPi :
+        
+        https://github.com/fhamborg/news-please/wiki/PyPI---How-to-upload-a-new-version
+        
+        creating a folder: any name
+        creating a sub folder : [vector](https://github.com/imvickykumar999/vixtor/tree/master/vector)
+        creating a sub folder : vixtor
+        create __init__.py inside 2nd folder
+        create setup.py inside 1st folder
+        pip install setuptools
+        import setuptools
+        define setup configuration inside setup.py file
+        include manifest.in
+        include readme.txt
+        include license.txt
+        run 'python setup.py sdist' cmd in terminal
+        install twine package :'pip install twine'
+        twine upload dist/*
+        Enter your PyPi username and then password.
+        
+Keywords: custom,python package,function and class,3D line,3D plane,angle bw planes or line,distance bw point and plane
+Platform: UNKNOWN
