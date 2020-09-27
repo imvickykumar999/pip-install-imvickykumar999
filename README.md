@@ -12,7 +12,7 @@
 
 #### [Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6715639149992394752/)
 
-[![pypi](https://github.com/imvickykumar999/vixtor/blob/master/screenshot%20vixtor%20version%200.0.2.png)
+[![pypi](https://github.com/imvickykumar999/vixtor/blob/master/screenshot%20vixtor%20version%200.0.2.png)](https://pypi.org/project/vixtor/)
 
 # Package : Vixtor = Vix (my nickname) + 3D_Vec.tor
 
