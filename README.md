@@ -21,7 +21,7 @@
 https://github.com/fhamborg/news-please/wiki/PyPI---How-to-upload-a-new-version
 
 1. creating a folder: any name
-2. creating a sub folder : vector
+2. creating a sub folder : [vector](https://github.com/imvickykumar999/vixtor/tree/master/vector)
 3. creating a sub folder : vixtor
 4. create __init__.py inside 2nd folder
 5. create setup.py inside 1st folder
