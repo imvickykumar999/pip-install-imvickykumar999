@@ -30,7 +30,7 @@
 2. creating a sub folder : [vector](https://github.com/imvickykumar999/vixtor/tree/master/vector%20version%200.0.2)
 3. creating a sub folder : vixtor
 4. create __init__.py inside 2nd folder
-5. create setup.py inside 1st folder
+5. create [setup.py](https://github.com/imvickykumar999/vixtor/blob/master/vector%20version%200.0.2/setup.py) inside 1st folder
 6. pip install setuptools
 7. import setuptools
 8. define setup configuration inside setup.py file
