@@ -5,18 +5,18 @@
 [![pypi](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/screenshot%20vixtor%20version%200.0.2.png)](https://pypi.org/project/vixtor/)
 
 #### ...in version 0.0.2, printing parameter is introduced, for example : 
-### angbw2line(a1=[3,2,-4], b1=[1,2,2], a2=[5,-2,0], b2=[3,2,6], printing = True)
-#### ...if printing is True then only called function will print info else only return.
+    angbw2line(a1=[3,2,-4], b1=[1,2,2], a2=[5,-2,0], b2=[3,2,6], printing = True)
+    ...if printing is True then only called function will print info else only return.
 
 ## [Available functions you can try...](https://github.com/imvickykumar999/vixtor/blob/master/vector/vixtor/__init__.py)
+
+# Package : vixtor = [Vix].(my nickname) + 3D_Vec.[tor]
 
 ## [TUTORIAL.ipynb : pip install vixtor](https://github.com/imvickykumar999/vixtor/blob/master/pip%20install%20vixtor%20version%200.0.2.ipynb)
 
 #### ...made with love and hardwork ;)
 
-# >>> [Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6715639149992394752/)
-
-# Package : vixtor = [Vix].(my nickname) + 3D_Vec.[tor]
+# [Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6715639149992394752/)
 
 ### ...this package can solve most of the questions of chapter 11, [NCERT](https://github.com/imvickykumar999/vixtor/blob/master/NCERT-Books-for-class%2012-Maths-Chapter%2011.pdf) (3D Vector) of class 12th.
 
@@ -24,8 +24,7 @@
 
 ![plane](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/vixtor.png)
 
-# How to Upload to PyPi :
-https://github.com/fhamborg/news-please/wiki/PyPI---How-to-upload-a-new-version
+# [How to Upload to PyPi :](https://github.com/fhamborg/news-please/wiki/PyPI---How-to-upload-a-new-version)
 
 1. creating a folder: any name
 2. creating a sub folder : [vector](https://github.com/imvickykumar999/vixtor/tree/master/vector)
