@@ -97,8 +97,8 @@ def plane(a=[2,5,-3],
     if nd == True:
         d = dis
 
-    if d<0:
-        n, d = -n, -d
+#     if d<0:
+#         n, d = -n, -d
 
     if printing == True:
         
