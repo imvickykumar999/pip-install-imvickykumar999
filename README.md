@@ -20,14 +20,14 @@
 
 ### ...this package can solve most of the questions of chapter 11, [NCERT](https://github.com/imvickykumar999/vixtor/blob/master/NCERT-Books-for-class%2012-Maths-Chapter%2011.pdf) (3D Vector) of class 12th.
 
-### ...checkout my linkedin post and YouTube Tutorial to know how to use this package's function also fully explained by solving questions.
+### ...checkout my [linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6715639149992394752/) and [YouTube Tutorial](https://www.youtube.com/watch?v=eeZB80pLPP8) to know how to use this package's function also fully explained by solving questions.
 
 ![plane](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/vixtor.png)
 
 # [How to Upload to PyPi :](https://github.com/fhamborg/news-please/wiki/PyPI---How-to-upload-a-new-version)
 
-1. creating a folder: any name
-2. creating a sub folder : [vector](https://github.com/imvickykumar999/vixtor/tree/master/vector)
+1. creating a folder: [any name](https://github.com/imvickykumar999/vixtor/tree/master/vector%20version%200.0.2)
+2. creating a sub folder : vector
 3. creating a sub folder : vixtor
 4. create __init__.py inside 2nd folder
 5. create setup.py inside 1st folder
