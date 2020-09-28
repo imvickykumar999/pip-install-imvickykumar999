@@ -1,5 +1,7 @@
 # [vixtor version 0.0.2](https://github.com/imvickykumar999/vixtor/blob/master/vector%20version%200.0.2/vixtor/threeDvector.py)
 
+[![pypi](https://github.com/imvickykumar999/vixtor/blob/master/screenshot%20vixtor%20version%200.0.2.png)](https://pypi.org/project/vixtor/)
+
 #### ...in version 0.0.2, printing parameter is introduced, for example : 
 ### angbw2line(a1=[3,2,-4], b1=[1,2,2], a2=[5,-2,0], b2=[3,2,6], printing = True)
 #### ...if printing is True then only called function will print info else only return.
@@ -11,8 +13,6 @@
 #### ...made with love and hardwork ;)
 
 # >>> [Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6715639149992394752/)
-
-[![pypi](https://github.com/imvickykumar999/vixtor/blob/master/screenshot%20vixtor%20version%200.0.2.png)](https://pypi.org/project/vixtor/)
 
 # Package : Vixtor = Vix (my nickname) + 3D_Vec.tor
 
