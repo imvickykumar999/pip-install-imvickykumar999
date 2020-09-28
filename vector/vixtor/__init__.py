@@ -1,3 +1,5 @@
+# import vixtor # ...will print this file, if you pass no parameter then it would use default arguments, e.g., angle = angbw2line()
+
 available_functions = '''
 
 >>> Made with LOVE and HARDWORK...
