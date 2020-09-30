@@ -1,0 +1,21 @@
+# [vixtor](https://github.com/imvickykumar999/vixtor/blob/master/vixtor.ipynb)
+
+## [Available functions you can try](https://github.com/imvickykumar999/vixtor/blob/master/vector/vixtor/__init__.py)
+
+## [pip install vixtor](https://github.com/imvickykumar999/vixtor/blob/master/pip%20install%20vixtor.ipynb)
+
+#### ...made with love and hardwork ;)
+
+#### [Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6715639149992394752/)
+
+[![pypi](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/pypi.png)](https://pypi.org/project/vixtor/)
+
+# Package : Vixtor = Vix (my nickname) + 3D_Vec.tor
+
+...this package can solve most of the questions of chapter 11, [NCERT](https://github.com/imvickykumar999/vixtor/blob/master/NCERT-Books-for-class%2012-Maths-Chapter%2011.pdf) (3D Vector) of class 12th.
+
+...checkout my linkedin post for tutorial on how to use package's function and fully explained by solving questions.
+
+...repo on github ( username : imvickykumar999 )
+
+![plane](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/vixtor.png)
