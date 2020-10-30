@@ -42,3 +42,5 @@
 15. twine upload dist/*
 or, python3 -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 16. Enter your PyPi username and then password.
+
+<script src="https://gist.github.com/imvickykumar999/2b165b2193f2fb0b5719976c86664d01.js"></script>
