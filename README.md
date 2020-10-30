@@ -1,4 +1,4 @@
-# [pip install --upgrade vixtor](https://gist.github.com/imvickykumar999/2b165b2193f2fb0b5719976c86664d01.js)
+# [pip install --upgrade vixtor](https://gist.github.com/imvickykumar999/2b165b2193f2fb0b5719976c86664d01#file-threedvector-py)
 
 ## [vixtor version 0.0.3](https://github.com/imvickykumar999/vixtor/tree/master/vector%20version%200.0.3/vixtor/threeDvector.py)
 
