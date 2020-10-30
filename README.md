@@ -1,4 +1,4 @@
-# pip install --upgrade vixtor
+# [pip install --upgrade vixtor](https://gist.github.com/imvickykumar999/2b165b2193f2fb0b5719976c86664d01.js)
 
 ## [vixtor version 0.0.3](https://github.com/imvickykumar999/vixtor/tree/master/vector%20version%200.0.3/vixtor/threeDvector.py)
 
@@ -43,7 +43,7 @@
 or, python3 -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 16. Enter your PyPi username and then password.
 
-
+<!--
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -56,3 +56,4 @@ or, python3 -m twine upload --repository-url https://test.pypi.org/legacy/ dist/
     </script>
   </body>
 </html>
+-->
