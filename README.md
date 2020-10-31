@@ -1,6 +1,6 @@
 # [pip install --upgrade vixtor](https://gist.github.com/imvickykumar999/2b165b2193f2fb0b5719976c86664d01#file-threedvector-py)
 
-## On Colab : [Subplot.Gist.ipynb](https://github.com/imvickykumar999/vixtor/blob/master/colab_subplot.ipynb)
+## On Colab : [Subplot.Gist.ipynb](https://gist.github.com/imvickykumar999/19c08f21f7f23afd3616676749491e74#file-subplot-ipynb)
 
 ## [vixtor version 0.0.3](https://github.com/imvickykumar999/vixtor/tree/master/vector%20version%200.0.3/vixtor/threeDvector.py)
 
