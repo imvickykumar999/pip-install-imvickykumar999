@@ -1,6 +1,6 @@
 # [pip install --upgrade vixtor](https://gist.github.com/imvickykumar999/2b165b2193f2fb0b5719976c86664d01#file-threedvector-py)
 
-## [Subplot.gist](https://gist.github.com/imvickykumar999/9c82a433a1e19d1e6034807f4fcf1ddb)
+## [Subplot.Gist.ipynb](https://gist.github.com/imvickykumar999/9c82a433a1e19d1e6034807f4fcf1ddb)
 
 ## [vixtor version 0.0.3](https://github.com/imvickykumar999/vixtor/tree/master/vector%20version%200.0.3/vixtor/threeDvector.py)
 
