@@ -1,4 +1,4 @@
-# [pip install --upgrade vixtor](https://gist.github.com/imvickykumar999/2b165b2193f2fb0b5719976c86664d01#file-threedvector-py)
+# [pip install --upgrade vixtor](https://vixportfoliowithflask.herokuapp.com/skills)
 
 ## Gist On Colab : [Subplot.Gist.ipynb](https://gist.github.com/imvickykumar999/19c08f21f7f23afd3616676749491e74#file-subplot-ipynb)
 
