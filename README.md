@@ -1,7 +1,7 @@
 # vixtor
 
 ## How to install
-`sh
+`
 $ pip install vixtor
 `
 
@@ -17,7 +17,7 @@ This package can solve most of the questions of chapter 11, [NCERT](asstes/NCERT
 check my my linkedin post out for demonstration on how to use package's function and fully explained by solving questions.
 
 
-![plane](vixtor.png)
+![plane](assets/vixtor.png)
 
 
 ## How to Upload to PyPi :
@@ -39,4 +39,4 @@ check my my linkedin post out for demonstration on how to use package's function
 > * Enter your PyPi username and then password.
 
 
-[From](https://github.com/imvickykumar999) : Vicky Kumar
+From : [Vicky Kumar](https://github.com/imvickykumar999)
