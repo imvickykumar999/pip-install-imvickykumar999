@@ -1,4 +1,4 @@
-# [pip install --upgrade vixtor](https://vixportfoliowithflask.herokuapp.com/skills)
+# >>> New package : [pip install --upgrade imvickykumar999](https://pypi.org/project/imvickykumar999/)
 
 ## Gist On Colab : [Subplot.Gist.ipynb](https://gist.github.com/imvickykumar999/19c08f21f7f23afd3616676749491e74#file-subplot-ipynb)
 
