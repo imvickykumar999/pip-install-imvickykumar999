@@ -1,8 +1,8 @@
-# >>> New package : [pip install --upgrade imvickykumar999](https://pypi.org/project/imvickykumar999/)
+## >>> New package : [pip install --upgrade imvickykumar999](https://pypi.org/project/imvickykumar999/)
 
-## Gist On Colab : [Subplot.Gist.ipynb](https://gist.github.com/imvickykumar999/19c08f21f7f23afd3616676749491e74#file-subplot-ipynb)
+### Gist On Colab : [Subplot.Gist.ipynb](https://gist.github.com/imvickykumar999/19c08f21f7f23afd3616676749491e74#file-subplot-ipynb)
 
-## [vixtor version 0.0.3](https://github.com/imvickykumar999/vixtor/tree/master/vector%20version%200.0.3/vixtor/threeDvector.py)
+### [vixtor version 0.0.3](https://github.com/imvickykumar999/vixtor/tree/master/vector%20version%200.0.3/vixtor/threeDvector.py)
 
 [![pypi](https://raw.githubusercontent.com/imvickykumar999/vixtor/master/screenshot%20vixtor%20version%200.0.3.png)](https://pypi.org/project/vixtor/)
 
